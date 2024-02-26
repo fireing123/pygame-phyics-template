@@ -1,0 +1,30 @@
+{
+    "setting": {
+        "tile": [],
+        "surface": []
+    },
+    "objs": {
+        "ParentObject": [{}],
+        "CameraObject": [{
+            "name": "main_cam",
+            "tag": "camera",
+            "position": [0, 0],
+            "rotation": 0
+        }],
+        "Text": [
+            {
+                "name": "start",
+                "layer": 3,
+                "tag": "text",
+                "visible": true,
+                "position": [600.0, 400.0],
+                "rotation": 0,
+                "parent_name": "parent",
+                "size": 50,
+                "color":[255, 255, 255],
+                "Font": "malgungothic",
+                "interval" : 10
+            }
+        ]
+    }
+}
