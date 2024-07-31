@@ -4,7 +4,6 @@
         "surface": []
     },
     "objs": {
-        "ParentObject": [{}],
         "CameraObject": [{
             "name": "main_cam",
             "tag": "camera",
